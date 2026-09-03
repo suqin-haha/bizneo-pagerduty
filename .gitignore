@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# this program
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.bizneo-session.json
+*.egg-info/
+dist/
+build/
